@@ -7,7 +7,7 @@ import requests
 from numpy import asarray
 
 
-SERVER_URL = 'https://tensorflow-linear-model-0khx.onrender.com/v1/models/flowers-model:predict'
+SERVER_URL = 'https://flower-model-arturo.onrender.com'
 
 score = 0
 
